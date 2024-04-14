@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2edc599f716f4c5295c1556ca6f4342b",
+    "revision": "f39b8b72b431ac25b6d42dbe614cc990",
     "url": "/CoffeeSelector/index.html"
   },
   {
-    "revision": "ec80ed63ec0ef6597436",
+    "revision": "c606a976cd9f9cacb5aa",
     "url": "/CoffeeSelector/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoffeeSelector/static/js/3.1b3c587a.chunk.js"
   },
   {
-    "revision": "ec80ed63ec0ef6597436",
-    "url": "/CoffeeSelector/static/js/main.cd4edf75.chunk.js"
+    "revision": "c606a976cd9f9cacb5aa",
+    "url": "/CoffeeSelector/static/js/main.4bac5af2.chunk.js"
   },
   {
     "revision": "a3d264d4ba50ab09aeba",
