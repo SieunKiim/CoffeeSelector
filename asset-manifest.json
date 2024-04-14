@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CoffeeSelector/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/CoffeeSelector/static/js/main.2f885cb3.chunk.js",
-    "main.js.map": "/CoffeeSelector/static/js/main.2f885cb3.chunk.js.map",
+    "main.js": "/CoffeeSelector/static/js/main.cd4edf75.chunk.js",
+    "main.js.map": "/CoffeeSelector/static/js/main.cd4edf75.chunk.js.map",
     "runtime~main.js": "/CoffeeSelector/static/js/runtime~main.4fbb1719.js",
     "runtime~main.js.map": "/CoffeeSelector/static/js/runtime~main.4fbb1719.js.map",
     "static/js/2.a2b181a3.chunk.js": "/CoffeeSelector/static/js/2.a2b181a3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1b3c587a.chunk.js": "/CoffeeSelector/static/js/3.1b3c587a.chunk.js",
     "static/js/3.1b3c587a.chunk.js.map": "/CoffeeSelector/static/js/3.1b3c587a.chunk.js.map",
     "index.html": "/CoffeeSelector/index.html",
-    "precache-manifest.552b567589770d48a3a5c24d9a16b723.js": "/CoffeeSelector/precache-manifest.552b567589770d48a3a5c24d9a16b723.js",
+    "precache-manifest.b4027070744ec90d9f761ac9d974a56f.js": "/CoffeeSelector/precache-manifest.b4027070744ec90d9f761ac9d974a56f.js",
     "service-worker.js": "/CoffeeSelector/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/CoffeeSelector/static/css/main.5ecd60fb.chunk.css.map"
   }
