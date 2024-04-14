@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfc533b1da646fb4a6d2cb31d1de6ee2",
+    "revision": "1195d81a52bf238ce2ab038a1740d34c",
     "url": "/CoffeeSelector/index.html"
   },
   {
