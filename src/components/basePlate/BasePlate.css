@@ -1,0 +1,7 @@
+.BasePlate{
+    width: 100%;
+    height: 100%;
+    background-color: #b6b6b6;
+
+    touch-action: none;
+}
